@@ -55,7 +55,7 @@ namespace xadrez
                     {
                         break;
                     }
-                    pos.linha = pos.linha - 1;
+                    pos.linha = pos.linha + 1;
                 }
             }
 
